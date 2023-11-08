@@ -1,0 +1,7 @@
+test 3
+help
+go
+shopping
+cleaning
+throw
+pick up
